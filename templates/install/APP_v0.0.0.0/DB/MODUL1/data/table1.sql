@@ -1,1 +1,0 @@
---insert into table1 ( column1 ) values ( 'test' );

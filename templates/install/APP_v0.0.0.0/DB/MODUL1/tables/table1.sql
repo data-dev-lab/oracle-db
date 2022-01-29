@@ -1,4 +1,0 @@
---CREATE TABLE TABLE1 
---(
---  COLUMN1 VARCHAR2(20) 
---);
