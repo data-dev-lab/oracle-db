@@ -1,0 +1,3 @@
+--CREATE OR REPALCE VIEW TABLE1_V
+--AS SELECT column1   
+--FROM table1;

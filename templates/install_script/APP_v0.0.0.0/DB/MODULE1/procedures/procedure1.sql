@@ -1,0 +1,4 @@
+--CREATE OR REPLACE PROCEDURE procedure1 AS 
+--BEGIN
+--  NULL;
+--END procedure1;

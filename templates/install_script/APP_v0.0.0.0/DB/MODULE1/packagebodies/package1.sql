@@ -1,0 +1,3 @@
+--CREATE OR REPLACE PACKAGE BODY package1 AS
+
+--END package1;

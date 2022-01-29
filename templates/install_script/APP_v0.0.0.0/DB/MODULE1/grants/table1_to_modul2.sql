@@ -1,0 +1,1 @@
+-- GRANT SELECT ON table1 TO modul2;

@@ -1,0 +1,114 @@
+
+DB_NAME:        dev01                                                           
+SESSION_USER:   MODULE1_USER1                                                         
+CURRENT_SCHEMA: MODULE1_USER1                                                         
+PROXY_USER:                                                                     
+OS_USER:        jane.doe
+                                                                                
+
+
+START_DATE: 2022-01-29 10:09:20                                                 
+
+
+=====================
+MODULE1 patch started
+=====================
+
+
+======================
+sequence statements
+======================
+
+TABLE1_SEQ
+
+
+======================
+table statements
+======================
+
+TABLE1
+
+
+======================
+index statements
+======================
+
+TABLE1_I1
+
+
+======================
+constraint statements
+======================
+
+TABLE1_PK
+
+
+======================
+trigger statements
+======================
+
+TABLE1_BRI
+
+
+==========================
+synonym statements
+==========================
+
+TABLE2
+
+
+======================
+view statements
+======================
+
+TABLE1_V
+
+
+==========================
+procedure statements
+==========================
+
+PROCEDURE1
+
+
+==========================
+function statements
+==========================
+
+FUNCTION1
+
+
+======================
+package statements
+======================
+
+PACKAGE1
+
+
+==========================
+package body statements
+==========================
+
+PACKAGE1
+
+
+======================
+data statements
+======================
+
+TABLE1
+
+
+A jóváhagyás befejezõdött.
+
+Eltelt: 00:00:00.01
+
+======================
+grant statements
+======================
+
+table1_to_modul2
+
+
+END_DATE: 2022-01-29 10:09:20                                                   
+
